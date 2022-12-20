@@ -63,7 +63,7 @@ body {
     }
     .navbar a{
         font-size: 40px;
-        display: inline-block;
+        display: inline;
     }
 }
 
