@@ -137,6 +137,7 @@ body {
         margin: 5px;
     }
     .logo {
+        display: none;
         font-size: 40px;
         margin: 5px;
     }
