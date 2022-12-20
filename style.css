@@ -54,9 +54,16 @@ body {
     text-shadow: 5px 5px 10px rgba(212, 175, 55, 0.7);  
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     .hero-text {
-        font-size: 50px;
+        font-size: 40px;
+    }
+    .hero-image{
+        width: 100%;
+    }
+    .fa-brands {
+        font-size: 40px;
+        display: inline-block;
     }
 }
 
