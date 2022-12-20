@@ -136,7 +136,7 @@ body {
         font-size: 40px;
         margin: 5px;
     }
-    .logo {
+    .logo a{
         display: none;
         font-size: 40px;
         margin: 5px;
