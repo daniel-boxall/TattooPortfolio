@@ -16,13 +16,6 @@ body {
     padding: 0;
 }
 
-.navbar-brand {
-    font-size: 40px;
-    color: #d4af37;
-    font-weight: 700;
-    letter-spacing: .5rem;
-    text-decoration: none;
-}
 .navbar li{
     display: inline-block;
     margin-left: 100px;
@@ -132,16 +125,15 @@ body {
     .hero-image {
         width: 300px;
     }
+    .navbar li{
+        display: inline-block;
+        padding: 10px;
+        margin: 5px;
+    }
     .icons {
         font-size: 40px;
         margin: 5px;
     }
-    .logo a{
-        display: none;
-        font-size: 40px;
-        margin: 5px;
-    }
-    
     .card {
         width: 300px;
         height: 500px;
