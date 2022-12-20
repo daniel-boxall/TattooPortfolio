@@ -130,16 +130,14 @@ body {
     }
 
     .hero-image {
-        width: 100%;
+        width: 300px;
     }
     .icons {
         font-size: 40px;
-        padding: 5px;
-        display: inline-block;
+        margin: 5px;
     }
     .logo {
         font-size: 40px;
-        padding: 5px;
         margin: 5px;
     }
     
@@ -150,6 +148,6 @@ body {
     }
 
     .card img {
-        height: 200px;
+        height: 300px;
     }
 }
