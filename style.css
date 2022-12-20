@@ -130,27 +130,19 @@ body {
     }
 
     .hero-image {
-        width: 200%;
+        width: 100%;
     }
     .icons {
         font-size: 40px;
-        padding: 10px
+        padding: 5px;
+        display: inline-block;
     }
     .logo {
         font-size: 40px;
         padding: 5px;
+        margin: 5px;
     }
-    .navbar a {
-        font-size: 40px;
-        display: inline;
-    }
-
-    .navbar li {
-        margin-left: 10px;
-        padding: 10;
-        display: inline-block;
-    }
-
+    
     .card {
         width: 300px;
         height: 500px;
