@@ -150,4 +150,7 @@ body {
     .card img {
         height: 300px;
     }
+    .card p {
+        font-size: 15px;
+    }
 }
