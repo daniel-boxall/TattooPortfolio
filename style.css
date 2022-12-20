@@ -61,7 +61,7 @@ body {
     .hero-image{
         width: 200%;
     }
-    .nabar a {
+    .navbar a{
         font-size: 40px;
         display: inline-block;
     }
